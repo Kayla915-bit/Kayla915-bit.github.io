@@ -15,7 +15,7 @@
             _run = createState('run'),
             _duck = createDuckState('duck'),
             _idle = createState('idle'),
-            _flyingJump = createFlyingJumpState('flyingJump'),
+            _flyingJump = createFlyingJumpState('flying\\Jump'),
             _stop = createStopState('stop'),
             _fire = createFireState('fire'),
             _die = createDieState('die'),
